@@ -2,4 +2,4 @@
 
 # ReactMeals 🍛
 
-### Check it out here:
+### Check it out here: https://react-meals-app-fariza.netlify.app/
